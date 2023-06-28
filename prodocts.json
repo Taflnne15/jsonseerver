@@ -1,0 +1,51 @@
+{"products" : [
+    {
+      "id": 1,                                                                                                               ,
+       "img": "https://i.postimg.cc/hP3w5RHz/Ag304-Gibson-l-10.webp",
+       "brandName": "Cort Guitar",
+       "Price": 1000
+  },
+  {
+    "id": 2,
+    "img" : "https://i.postimg.cc/BvYf4Pzp/classiclelectriclespaul.webp",
+    "brandName" : "Les Paul Classic",
+    "Price" : 1000
+  },
+  {
+    
+    "id": 4,
+    "img": "https://i.postimg.cc/hG9QYg3K/Cort-G250.webp",
+    "lastName": "Cort G250",
+    "Price": 2000
+},
+  {
+    "id": 5,
+       "img": "https://i.postimg.cc/02PvGv7p/bass-starter-pack.webp",
+       "lastName": "Baas Starter Pack",
+       "Price": 4470
+  },
+  {
+    "id": 6,
+    "img": "https://i.postimg.cc/G3NY9MYw/gibson-lespaulclassic.jpg",
+    "brandName": "Gibson Les Paul Classic",
+    "Price": 3990
+  },
+  {
+      "id": 7,
+      "img": "https://i.postimg.cc/cLD8yXdb/Optimized-IMG-4822-2-edited.jpg",
+      "brandName": "Pretty Guitar",
+      "Price": 3200
+  },
+  {
+      "id": 8 ,                                                                                                              ,
+       "img": "https://i.postimg.cc/prZLQLT6/cort-cr100.webp",
+       "brandName": "Cort CR100",
+       "Price": 1000
+  },
+  {
+      "id": 9,
+       "img": "https://i.postimg.cc/1XPp5X2C/flying-v.jpg",
+       "brandName": "Cort FlyingV",
+       "Price": 2000
+  }
+]}
