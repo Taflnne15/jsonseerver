@@ -15,13 +15,13 @@
     
     "id": 4,
     "img": "https://i.postimg.cc/hG9QYg3K/Cort-G250.webp",
-    "lastName": "Cort G250",
+    "brandName": "Cort G250",
     "Price": 2000
 },
   {
     "id": 5,
        "img": "https://i.postimg.cc/02PvGv7p/bass-starter-pack.webp",
-       "lastName": "Baas Starter Pack",
+       "brandName": "Baas Starter Pack",
        "Price": 4470
   },
   {
